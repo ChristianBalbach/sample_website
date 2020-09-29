@@ -1,4 +1,35 @@
-.nav-menu { text-align: right;}
+.nav-menu { 
+    text-align: right;
+}
 .nav-spacing {
-  margin: 0 0 0 10px;text-decoration: none;
+  margin: 0 0 0 10px;
+}
+
+.nav-elements {
+    text-decoration: none;
+}
+
+.image-link {
+    text-decoration: none;
+}
+
+.header-moby_dick {
+    text-align: center; margin: 0 0 80px;
+}
+
+.wiki-image {
+    display: block; margin: 0 auto;
+}
+
+.book-cover {
+    float: left; margin: 0 40px 0 0;
+}
+
+blockquote {
+    style="font-style: italic; font-size: 20px;
+}
+
+span {
+    font-style: normal; font-size: 24px; font-weight: bold;
+          color:red;
 }
